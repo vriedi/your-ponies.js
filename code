@@ -1,0 +1,1 @@
+BrowserPonies.loadConfig({"baseurl":"https://fefrezi.neocities.org/images/scamper.gif","speed":3,"speakProbability":0.1,"dontSpeak":true,"volume":1,"interval":40,"fps":25,"interactionInterval":500,"audioEnabled":false,"showFps":false,"preloadAll":false,"showLoadProgress":false,"fadeDuration":500,"autostart":true});
